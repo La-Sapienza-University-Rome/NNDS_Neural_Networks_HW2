@@ -3,7 +3,7 @@ This notebook contains the solution to the second homework of NNDS class in La S
 
 
 ## Overview: The homework is composed of four parts: 
-1. selecting a dataset; 
-2. implementing a custom component (ONLY if you did not submit the first homework or if you want to improve your mark); 
-3. implementing a neural network and training it on the dataset; 
-4. implementing an additional continual learning strategy on top of it (Elastic Weight Consolidation).
+1. Selecting a dataset; 
+2. Implementing a custom component (ONLY if you did not submit the first homework or if you want to improve your mark - NOT SOLVED); 
+3. Implementing a neural network and training it on the dataset; 
+4. Implementing an additional continual learning strategy on top of it (Elastic Weight Consolidation).
